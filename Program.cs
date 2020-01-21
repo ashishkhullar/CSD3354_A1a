@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace C0743159
+namespace red
 {
-    class Program
+
+
+    class multiply
     {
-        static void Main(string[] args)
+        public multiply()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("You are now in the Zero Arguments Constructor");
         }
+
+
     }
 }
